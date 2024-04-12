@@ -1,5 +1,2 @@
 # test_repo
-## *here we* **will describe** *how we work with our repo*
-### _отличия работы команд git pull и git fetch:_
-1. ***git pull*** - когда мы из удалённого репозитория хотим подтянуть изменения к себе в локальный репозиторий
-2. ***git fetch*** - загрузить объекты и ссылки из другого репозитория
+## here we will describe how we work with our repo
